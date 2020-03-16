@@ -2,7 +2,7 @@ package com;
 
 import java.lang.Number;
 
-rule "1"
+rule "1" extends "test"
 	dialect "mvel"
 	when
 	then
